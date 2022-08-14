@@ -1,4 +1,5 @@
 mod float;
+mod fixed;
 
 fn main () {
     let n: f32 = 42.42;
